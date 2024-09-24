@@ -1,0 +1,35 @@
+Projet fil rouge perso
+
+Le concept :
+
+Il s’agit d’une application permettant à un utilisateur de créer son repas (comprenant une entrée, un plat et un dessert), l’objectif de cette application sera de permettre aux personnes souhaitant commander un repas, d’avoir accès à une grande variété de plats, provenant du monde entier. L’utilisateur pourra également choisir le nombre de couverts, ce qui lui offrira ainsi la possibilité d’organiser rapidement un repas de famille ou entre amis. 
+Fonctionnement :
+
+Si un utilisateur arrive pour la première fois sur l’application, il devra :
+•	S’inscrire s’il n’est pas encore client.
+•	S’identifier, s’il est déjà client.
+Pour une inscription, le client devra renseigner les informations suivantes :
+•	Nom et prénom
+•	Date de naissance
+•	Adresse e-mail
+•	Adresse postale
+•	Numéro de téléphone
+
+Il lui sera également demandé de créer et de confirmer son mot de passe.Moyen de paiement (Soit en renseignant les information d’une carte de crédit, soit en associant une autre application de paiement, tel que : Apple-Pay, Samsung-Pay, PayPal, etc… 
+Pour une connexion, il suffira simplement d’entrer son e-mail ou numéro de téléphone, ainsi que son mot de passe. (En cas d’oubli du mot de passe, il sera évidemment possible de le réinitialiser, en demandant un code de réinitialisation, soit par e-mail, soit par message).
+Le client arrivera ensuite sur la page d’accueil, celle-ci affichera un onglet en haut, à gauche, correspondant au profil du client :
+•	Vue du profil
+•	Modifications des informations du profil
+•	Signaler un problème
+•	Désactivation du profil  
+•	A propos
+
+S’afficheront également les onglets principaux :
+•	Cuisine du monde : Cet onglet permettra ensuite de naviguer entre des sous-onglets, sur lesquels seront indiqués une grande variété de pays, offrant une large diversité de menus. 
+•	Cuisine pour tous : Cet onglet sera dédié aux personnes suivants un régime spécial, ou ayants des restrictions alimentaires et donnera donc accès à différentes options tel que :
+•	Halal
+•	Cacher
+•	Sans gluten
+•	Végétarienne 
+•	Vegan  
+
