@@ -1,61 +1,91 @@
-rojet fil rouge perso
+Projet fil rouge perso
+(Rédaction)
 
 Le concept :
 Il s’agit d’une application permettant à un utilisateur de créer son repas (comprenant une entrée, 
-un plat et un dessert), l’objectif de cette application sera de permettre aux personnes souhaitant commander un repas, d’avoir accès à une 
-grande variété de plats, provenant du monde entier. L’utilisateur pourra également choisir le nombre de couverts, ce qui 
-lui offrira ainsi la possibilité d’organiser rapidement un repas de famille ou entre amis. 
+un plat et un dessert), l’objectif de cette application sera de permettre aux personnes souhaitant commander un repas, 
+d’avoir accès à une grande variété de plats, provenant du monde entier. 
+L’utilisateur pourra également choisir le nombre de couverts, ce qui lui offrira ainsi 
+la possibilité d’organiser rapidement un repas de famille ou entre amis. 
+
 Fonctionnement :
+
 Si un utilisateur arrive pour la première fois sur l’application, il devra :
+
 •	S’inscrire s’il n’est pas encore client.
 •	S’identifier, s’il est déjà client.
+
 Pour une inscription, le client devra renseigner les informations suivantes :
+
 •	Nom et prénom
 •	Date de naissance
 •	Adresse e-mail
 •	Adresse postale
 •	Numéro de téléphone
+
 Il lui sera également demandé de créer et de confirmer son mot de passe, son moyen de paiement 
-(Soit en renseignant les information d’une carte de crédit, soit en associant une autre application de paiement, tel que : 
-Apple-Pay, Samsung-Pay, PayPal, etc… 
-Pour une connexion, il suffira simplement d’entrer son e-mail ou numéro de téléphone,
- ainsi que son mot de passe. (En cas d’oubli du mot de passe, il sera évidemment possible de le réinitialiser, en demandant 
-un code de réinitialisation, 
-soit par e-mail, soit par message).
-Le client arrivera ensuite sur la page d’accueil, celle-ci affichera un onglet en haut, à gauche, correspondant au profil du client :
+(Soit en renseignant les information d’une carte de crédit, soit en associant une autre application de paiement, 
+tel que : Apple-Pay, Samsung-Pay, PayPal, etc… 
+Pour une connexion, il suffira simplement d’entrer son e-mail ou numéro de téléphone, ainsi que son mot de passe. 
+(En cas d’oubli du mot de passe, il sera évidemment possible de le réinitialiser, en demandant 
+un code de réinitialisation, soit par e-mail, soit par message).
+Le client arrivera ensuite sur la page d’accueil, celle-ci affichera un onglet en haut, à gauche, 
+correspondant au profil du client :
+
 •	Vue du profil
 •	Modifications des informations du profil
 •	Signaler un problème
 •	Désactivation du profil  
 •	A propos
-S’afficheront également les onglets principaux :
-•	Cuisine du monde : Cet onglet permettra ensuite de naviguer entre des sous-onglets, 
-sur lesquels seront indiqués une grande variété de pays, offrant une large diversité de menus. 
-•	Cuisine pour tous : Cet onglet sera dédié aux personnes suivants un régime spécial, 
-ou ayants des restrictions alimentaires et donnera donc accès à différentes options tel que :
-•	Halal
-•	Cacher
-•	Sans gluten
-•	Végétarienne 
-•	Vegan  
-Pour commander un menu, le client (identifié), devra dans un premier temps, préciser le nombre des personnes (De 1 à 20), 
-choisir ensuite une catégorie parmi celles citées précédemment, 
-puis aura la possibilité de choisir entre différentes entrées, 
-différents plats ou différents desserts, ainsi que la boisson, 
-(des cocktails peuvent être proposés selon la cuisine que vous aurez choisie).
-L’utilisateur devra également définir l’adresse à laquelle il souhaite recevoir sa commande (Si cela n’est pas définit au préalable).
-Viendra ensuite le payement : Si le client a, au préalable enregistré une carte de crédit, 
-il lui suffira de confirme le payement à partir de cette carte. S’il a enregistré plusieurs cartes, 
-il devra choisir une carte parmi les autres, sur laquelle sera prélevée la somme. S’il n’a pas enregistré de carte, 
-il lui sera demandé de saisir les informations d’une carte de crédit, ou de lier son compte avec une application de payement, 
-tel que : ApplePay, Samsung-Pay, etc…
-Abonnement et réductions :
-Pour les plus fidèles, un abonnement mensuel est disponible, cet abonnement offre aux clients concernés, 
-une réduction sur les commandes, ainsi que l’annulation de frais de livraison. (Essai gratuit pour 10 jours).
-Pour les clients commandants régulièrement (Abonnés ou non), des bons de réductions seront disponible (Au bout 
-de 10 commandes passées, le client bénéficiera de  -20% sur la commande suivante).
-Finalisation de la commande : 
-Une fois votre commande passée et le paiement effectué, une notification sera 
-immédiatement au restaurant concerné, afin que la commande soit préparée et livrée le plus rapidement possible. 
-Une notification vous sera envoyée, vous disant que votre commande est en cours de préparation et une carte apparaîtra.
 
+S’afficheront également les onglets principaux :
+•	Cuisine du monde : Cet onglet permettra ensuite de naviguer entre des sous-onglets, sur lesquels 
+seront indiqués une grande variété de pays, offrant une large diversité de menus. 
+•	Cuisine pour tous : Cet onglet sera dédié aux personnes suivants un régime spécial, ou ayants des 
+restrictions alimentaires et donnera donc accès à différentes options tel que : Halal ; Cacher ; Sans gluten ; Végétarienne ; Vegan.  
+Pour commander un menu, le client (identifié), devra dans un premier temps, préciser le nombre des personnes 
+(De 1 à 20), choisir ensuite une catégorie parmi celles citées précédemment, puis aura la possibilité de choisir entre 
+différentes entrées, différents plats ou différents desserts, ainsi que la boisson, (des cocktails peuvent 
+être proposés selon la cuisine que vous aurez choisie).
+L’utilisateur devra également définir l’adresse à laquelle il souhaite 
+recevoir sa commande (Si cela n’est pas définit au préalable).
+
+Viendra ensuite le payement : Si le client a, au préalable enregistré une carte de crédit, il lui suffira de 
+confirme le payement à partir de cette carte. S’il a enregistré plusieurs 
+cartes, il devra choisir une carte 
+parmi les autres, sur laquelle sera prélevée la somme. S’il n’a pas enregistré 
+de carte, il lui sera demandé de saisir 
+les informations d’une carte de crédit, ou de lier son compte avec une application de payement, 
+tel que : ApplePay, Samsung-Pay, etc…
+
+Abonnement et réductions :
+
+Pour les plus fidèles, un abonnement mensuel est disponible, cet abonnement offre aux clients 
+concernés, une réduction sur les commandes, ainsi que l’annulation de frais de livraison. 
+(Essai gratuit pour 10 jours).
+Pour les clients commandants régulièrement (Abonnés ou non), des bons de réductions seront disponible 
+(Au bout de 10 commandes passées, le client bénéficiera de  -20% sur la commande suivante).
+
+Finalisation de la commande : 
+
+Une fois votre commande passée et le paiement effectué, une notification 
+sera immédiatement 
+au restaurant concerné, afin que la commande soit préparée et livrée le plus 
+rapidement possible. Une notification 
+vous sera envoyée, vous disant que votre commande est en cours de préparation et 
+une carte apparaîtra. Cette carte montrera 
+le parcours du livreur, à partir du restaurant (chez lequel vous aurez passé 
+votre commande), jusqu’à votre domicile, cette page 
+affichera également le temps d’attente, correspondant au parcours de votre commande.
+5 minutes avant l’arrivée de votre livreur, une notification vous sera envoyée 
+afin d’être prêt à récupérer votre commande. 
+Afin de finaliser la commande et assurer qu’il s’agit bien de vous, il sera nécessaire de communiquer au 
+livreur, un code à 4 chiffres qui vous aura été envoyé dès lors où vous aurez 
+validé votre commande et que le paiement sera effectué.
+
+Noter votre commande : 
+
+Ceci sera la dernière étape de votre commande, bien que pas obligatoire, mais fortement 
+recommandée afin d’améliorer et perfectionner au maximum notre application. Il vous sera donc proposer 
+dans un premier temps de noter le(s) plat(s) que vous aurez reçus, ainsi que la livraison. 
+Il sera également possible de rédiger vos éventuelles remarques lors de cette étape.
